@@ -1,0 +1,1144 @@
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\Users\dj.bigelow\Desktop\Backend\HW-03\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW-03\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\School\Backend\hw3\hw-03-blog-emmanuel_dj\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\Emmanuel Torres\Desktop\hw04\hw-04\HW-03\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\emmanuel.torres\Desktop\HW-04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewComment.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewComment.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\hw04\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detail.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Edit.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewComment.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\NewPost.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Posts.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW4\hw-04-comments-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Detail.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\NewPost.cshtml.g.cs
+C:\Users\emmanuel.torres\Desktop\HW-05\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Posts.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.exe
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.deps.json
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.json
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.runtimeconfig.dev.json
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\System.Linq.Async.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csprojAssemblyReference.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfoInputs.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.AssemblyInfo.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorAssemblyInfo.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.input.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.TagHelpers.output.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorCoreGenerate.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Detail.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Edit.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\NewPost.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Posts.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.RazorTargetAssemblyInfo.cs
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.Views.pdb
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CopyComplete
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.Manifest.cache
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\staticwebassets\HW-03.StaticWebAssets.xml
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.dll
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.pdb
+C:\Users\Hector\Source\Repos\hw-05-cleanup-emmanuel_hector\HW-03\obj\Debug\netcoreapp3.1\HW-03.genruntimeconfig.cache

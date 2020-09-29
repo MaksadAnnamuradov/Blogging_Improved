@@ -1,0 +1,50 @@
+﻿@model Post
+
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Detail</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+
+<body>
+    <h1>@Model.Title</h1>
+    <h3>@Model.Body</h3>
+    <h8>Posted On: @Model.PostedOn</h8>
+    <h8>Last Edited: @Model.EditedOn</h8>
+
+    <a asp-action="Edit" asp-route-ID="@Model.ID">Edit</a>
+
+    <a asp-action="Posts">Return Home</a>
+
+    <form asp-action="NewComment" method="post" class="m-2">
+        <input type="hidden" name="PostID" value="@Model.ID" />
+        <input type="text" name="Content" />
+        <button type="submit">Add Comment</button>
+    </form>
+
+    <h3>Comments</h3>
+    @if (Model.Comments is null)
+    {
+
+    }
+    else
+    {
+
+        @foreach (HW_03.Models.Comment comment in Model.Comments)
+        {
+            @if (comment.Deleted == false)
+            {
+                <li>@comment.Content <a asp-action="DeleteComment" asp-route-CommentId="@comment.ID">Delete Comment</a></li>
+            }
+        }
+    }
+</body>
+
+</html>
+
