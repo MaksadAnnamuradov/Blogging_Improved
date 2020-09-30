@@ -18,5 +18,9 @@ namespace HW_03.Models
         public DateTime? EditedOn { get; set; }
 
         public List<Comment> Comments { get; set; }
+
+        public List<PostCategory> PostCategories { get; set; }
+
+
     }
 }

@@ -16,8 +16,23 @@ namespace HW_03.Migrations
 #pragma warning disable 612, 618
             modelBuilder
                 .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn)
-                .HasAnnotation("ProductVersion", "3.1.4")
+                .HasAnnotation("ProductVersion", "3.1.8")
                 .HasAnnotation("Relational:MaxIdentifierLength", 63);
+
+            modelBuilder.Entity("HW_03.Models.Category", b =>
+                {
+                    b.Property<int>("CategoryId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("integer")
+                        .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn);
+
+                    b.Property<string>("Categoryname")
+                        .HasColumnType("text");
+
+                    b.HasKey("CategoryId");
+
+                    b.ToTable("Categories");
+                });
 
             modelBuilder.Entity("HW_03.Models.Comment", b =>
                 {
@@ -69,11 +84,41 @@ namespace HW_03.Migrations
                     b.ToTable("Posts");
                 });
 
+            modelBuilder.Entity("HW_03.Models.PostCategory", b =>
+                {
+                    b.Property<int>("PostId")
+                        .HasColumnType("integer");
+
+                    b.Property<int>("CategoryId")
+                        .HasColumnType("integer");
+
+                    b.HasKey("PostId", "CategoryId");
+
+                    b.HasIndex("CategoryId");
+
+                    b.ToTable("PostCategory");
+                });
+
             modelBuilder.Entity("HW_03.Models.Comment", b =>
                 {
                     b.HasOne("HW_03.Models.Post", "ParentPost")
                         .WithMany("Comments")
                         .HasForeignKey("PostID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+                });
+
+            modelBuilder.Entity("HW_03.Models.PostCategory", b =>
+                {
+                    b.HasOne("HW_03.Models.Category", "Category")
+                        .WithMany("PostCategories")
+                        .HasForeignKey("CategoryId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("HW_03.Models.Post", "Post")
+                        .WithMany("PostCategories")
+                        .HasForeignKey("PostId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
                 });

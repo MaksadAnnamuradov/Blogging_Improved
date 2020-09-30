@@ -15,5 +15,24 @@ namespace HW_03.Models
 
         public DbSet<Post> Posts { get; set; }
         public DbSet<Comment> Comments { get; set; }
+
+        public DbSet<Category> Categories { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<PostCategory>()
+                .HasKey(t => new { t.PostId, t.CategoryId });
+
+            modelBuilder.Entity<PostCategory>()
+                .HasOne(pt => pt.Post)
+                .WithMany(p => p.PostCategories)
+                .HasForeignKey(pt => pt.PostId);
+
+            modelBuilder.Entity<PostCategory>()
+                .HasOne(pt => pt.Category)
+                .WithMany(t => t.PostCategories)
+                .HasForeignKey(pt => pt.CategoryId);
+        }
+
     }
 }

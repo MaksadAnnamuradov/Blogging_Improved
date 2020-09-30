@@ -28,6 +28,8 @@ namespace HW_03
             services.AddDbContext<ApplicationDbContext>(options => options.UseNpgsql(convertUrlConnectionString(Configuration["DATABASE_URL"])));
             services.AddControllersWithViews();
             services.AddTransient<IRepository, PostgresRepository>();
+            services.AddControllersWithViews();
+            services.AddRazorPages();
         }
 
         private string convertUrlConnectionString(string url)
@@ -70,8 +72,11 @@ namespace HW_03
 
             app.UseAuthorization();
 
+
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapRazorPages();
+
                 endpoints.MapControllerRoute(
                     name: "Default",
                     pattern: "Blog",

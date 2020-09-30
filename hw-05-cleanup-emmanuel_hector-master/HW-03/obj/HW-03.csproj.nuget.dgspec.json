@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksa\\OneDrive\\Desktop\\Fall 2020\\SE-3820\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {}
+    "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksa\\OneDrive\\Desktop\\Fall 2020\\SE-3820\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {
+    "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksa\\OneDrive\\Desktop\\Fall 2020\\SE-3820\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+        "projectUniqueName": "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
         "projectName": "HW-03",
-        "projectPath": "C:\\Users\\maksa\\OneDrive\\Desktop\\Fall 2020\\SE-3820\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+        "projectPath": "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
         "packagesPath": "C:\\Users\\maksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksa\\OneDrive\\Desktop\\Fall 2020\\SE-3820\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\obj\\",
+        "outputPath": "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,6 +46,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

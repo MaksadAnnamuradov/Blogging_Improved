@@ -87,5 +87,15 @@ namespace HW_03.Controllers
             await _repository.DeleteCommentAsync(comment);
             return RedirectToAction("Detail", new { ID = comment.PostID });
         }
+
+
+        public async Task <IActionResult> AddCategory(Category category, int PostId)
+        {
+            
+            await _repository.AddCategory(category, PostId);
+            return View();
+
+        }
+
     }
 }

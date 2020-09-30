@@ -15,7 +15,8 @@ namespace HW_03.Models
 
         //Task<IEnumerable<Post>> IRepository.PostList => throw new NotImplementedException();
 
-        public PostgresRepository(ApplicationDbContext context)
+        
+    public PostgresRepository(ApplicationDbContext context)
         {
             this.context = context ?? throw new ArgumentNullException(nameof(context));
         }
@@ -59,6 +60,20 @@ namespace HW_03.Models
             comment.DeletedOn = DateTime.Now;
             context.Update(comment);
             await context.SaveChangesAsync();
+        }
+
+        public async Task AddCategoryAsync (Category category, int postId)
+        {
+
+            var tempCat = await EntityFrameworkQueryableExtensions.FirstAsync(context.Categories, c => c.CategoryName == category.CategoryName);
+
+
+           if(category.CategoryName == null)
+            {
+                Category = new category1();
+                category1.Catagoryname = category.CategoryName;
+                category1.CatagoryId = category.CategoryId;
+            }
         }
 
         public async Task<Comment> GetCommentAsync(int commentID)
