@@ -45,7 +45,10 @@ namespace HW_03.Models
         {
             //var postlist = await EntityFrameworkQueryableExtensions.ToListAsync(context.Posts);
             //return postlist.Find(x=>x.ID.Equals(postID));
-            return await context.Posts.Include(r => r.Comments).FirstOrDefaultAsync(r => r.ID == postID);
+            return await context.Posts.Include(r => r.Comments)
+                .Include(p => p.PostCategories) 
+                .ThenInclude(pc => pc.Category)
+                .FirstOrDefaultAsync(r => r.ID == postID);
         }
 
         public async Task AddCommentAsync(Comment comment)
