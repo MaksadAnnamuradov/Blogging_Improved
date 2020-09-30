@@ -14,6 +14,8 @@ namespace HW_03.Models
         public Task AddPostAsync(Post post);
         public Task<Post> GetPostAsync(int postID);
 
+        public Task<Category> GetCategoryAsync(int categoryID);
+
         public Task EditPostAsync(Post post);
 
         public Task AddCommentAsync(Comment comment);

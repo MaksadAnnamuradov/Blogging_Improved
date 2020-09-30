@@ -1,4 +1,4 @@
-﻿@model IEnumerable<Post>
+﻿@model IEnumerable<Category>
 @{
     ViewData["Title"] = "Posts";
 }
@@ -16,23 +16,20 @@
 
     <table class="table table-bordered table-striped table-sm">
         <thead>
-            <tr><th>Title</th> <th>PostedOn</th> <th>EditedOn</th></tr>
+            <tr><th>Category</th></tr>
         </thead>
         <tbody>
-            @foreach (HW_03.Models.Post post in Model)
+            @foreach (HW_03.Models.Category category in Model)
             {
                 <tr>
 
-                    <td> <a asp-route-ID="@post.ID" asp-action="Detail">@post.Title</a></td>
-                    <td>@post.PostedOn</td>
-                    <td>@post.EditedOn</td>
+                    <td> <a asp-route-ID="@category.CategoryId" asp-action="PostCategory">@category.CategoryName</a></td>
                 </tr>
             }
         </tbody>
     </table>
 
     <a asp-action="NewPost">NewPost</a>
-    <a asp-action="Categories">Categories</a>
 
 </body>
 

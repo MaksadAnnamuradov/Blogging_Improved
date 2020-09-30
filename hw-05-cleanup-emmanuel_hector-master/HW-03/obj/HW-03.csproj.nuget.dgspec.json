@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {}
+    "C:\\Users\\Hector\\source\\repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {
+    "C:\\Users\\Hector\\source\\repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+        "projectUniqueName": "C:\\Users\\Hector\\source\\repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
         "projectName": "HW-03",
-        "projectPath": "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
-        "packagesPath": "C:\\Users\\maksa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maksa\\Projects\\hw-05-cleanup-emmanuel_hector-master\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\obj\\",
+        "projectPath": "C:\\Users\\Hector\\source\\repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+        "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hector\\source\\repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\maksa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hector\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

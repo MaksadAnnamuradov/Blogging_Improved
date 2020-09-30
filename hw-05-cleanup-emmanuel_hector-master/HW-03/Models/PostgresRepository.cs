@@ -51,6 +51,11 @@ namespace HW_03.Models
                 .FirstOrDefaultAsync(r => r.ID == postID);
         }
 
+        public async Task<Category> GetCategoryAsync (int categoryID)
+        {
+            return await Task.Run(() => context.Categories.First(r => r.CategoryId == categoryID));
+        }
+
         public async Task AddCommentAsync(Comment comment)
         {
             context.Comments.Add(comment);

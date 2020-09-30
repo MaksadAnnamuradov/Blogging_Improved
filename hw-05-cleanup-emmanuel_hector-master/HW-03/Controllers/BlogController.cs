@@ -27,6 +27,23 @@ namespace HW_03.Controllers
         {
             return View(await _repository.GetPostListAsync());
         }
+        public async Task<IActionResult> Categories()
+        {
+            return View(await _repository.GetCategoriesAsync());
+        }
+
+        public async Task<IActionResult> PostCategory(int ID)
+        {
+            var postlist = await _repository.GetPostListAsync();
+            var category = await _repository.GetCategoryAsync(ID);
+
+            var model = new PostCatRel
+            {
+                posts = postlist,
+                category = category
+            };
+            return View(model);
+        }
 
 
         public async Task<IActionResult> Detail(int ID)
