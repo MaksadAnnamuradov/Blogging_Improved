@@ -68,25 +68,31 @@ namespace HW_03.Models
         public async Task AddCategoryAsync (Category category, int postId)
         {
 
-            var tempCat = await EntityFrameworkQueryableExtensions.FirstOrDefaultAsync(context.Categories, c => c.CategoryName == category.CategoryName);
+
+            var newCategory = await EntityFrameworkQueryableExtensions.FirstOrDefaultAsync(context.Categories, c => c.CategoryName == category.CategoryName);
 
 
-           if(tempCat == null)
+           if(newCategory == null)
             {
-                tempCat = new Category { CategoryName = category.CategoryName };
-                context.Categories.Add(tempCat);
+                newCategory = new Category { CategoryName = category.CategoryName };
+                context.Categories.Add(newCategory);
                 await context.SaveChangesAsync();
             }
 
-            var newPostCategory = new PostCategory()
-            {
-                CategoryId = tempCat.CategoryId,
-                PostId = postId
-            };
+            var postCategory = await EntityFrameworkQueryableExtensions.FirstOrDefaultAsync(
+                context.PostCategories, (pc => pc.CategoryId == newCategory.CategoryId && postId == pc.PostId));
 
-            context.PostCategories.Add(newPostCategory);
-            await context.SaveChangesAsync();
-            
+            if (postCategory == null)
+            {
+                var newPostCategory = new PostCategory()
+                {
+                    CategoryId = newCategory.CategoryId,
+                    PostId = postId
+                };
+
+                context.PostCategories.Add(newPostCategory);
+                await context.SaveChangesAsync();
+            }
         }
 
 
@@ -95,21 +101,10 @@ namespace HW_03.Models
             return await context.Categories.Include(c => c.PostCategories).ThenInclude(r => r.Post).ThenInclude(r => r.Comments).ToListAsync();
         }
 
-        public Task<Category> GetPostCategoriesAsync(int postID)
-        {
-            throw new NotImplementedException();
-        }
-
 
         public async Task<Comment> GetCommentAsync(int commentID)
         {
             return await context.Comments.Include(r => r.ParentPost).FirstOrDefaultAsync(r => r.ID == commentID);
         }
-
-        //public async Task<IEnumerable<Comment>> GetCommentAsync(int PostID)
-        //{
-        //    var commentlist = await EntityFrameworkQueryableExtensions.ToListAsync(context.Comments);
-        //    return (IEnumerable<Comment>)commentlist.Find(x => x.PostID.Equals(PostID));
-        //}
     }
 }

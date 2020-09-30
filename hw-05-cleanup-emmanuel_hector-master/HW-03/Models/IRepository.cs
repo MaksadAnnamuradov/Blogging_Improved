@@ -26,7 +26,7 @@ namespace HW_03.Models
 
         public Task<IEnumerable<Category>> GetCategoriesAsync();
 
-        public Task<Category> GetPostCategoriesAsync(int postID);
+        
         //public Task<IEnumerable<Comment>> GetCommentAsync(int PostID);
     }
 }

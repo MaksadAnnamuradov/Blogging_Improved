@@ -1,5 +1,41 @@
-﻿@page "/AddCategory/Category"
+﻿@page "/Blogs/Category"
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model HW_03.Models.Category
+@model HW_03.Models.CategoryModel
 @{ Layout = null; }
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+
+</head>
+
+<body>
+    @foreach (var category in Model.Categories)
+    {
+
+        if (category.CategoryName == Model.SelectedCategoryName)
+        {
+
+<h1>@category.CategoryName</h1> }
+
+else
+{
+<h2>@category.CategoryName</h2> }
+
+<span>There are @category.PostCategories.Count posts</span>
+                <ul>
+                    @foreach (var pc in category.PostCategories)
+                    {
+    <li><a asp-controller="Blog" asp-action="Detail" asp-route-ID="@pc.PostId">@pc.Post.Title</a></li>
+}
+                </ul>}
+
+
+
+    <a class="btn btn-primary" asp-controller="Blog" asp-action="Blog">Return Home</a>
+</body>
+</html>
 
