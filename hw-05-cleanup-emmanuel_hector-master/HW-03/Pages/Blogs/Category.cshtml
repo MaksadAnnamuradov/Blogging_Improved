@@ -1,5 +1,38 @@
-﻿@page "/AddCategory/Category"
+﻿@page
+@model Blog.Pages.PostCatModel
 @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
-@model HW_03.Models.Category
-@{ Layout = null; }
+@{
+    ViewData["Title"] = "Posts";
+}
 
+<h1>Posts</h1>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Posts</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+
+<body>
+
+    <table class="table table-bordered table-striped table-sm">
+        <thead>
+            <tr><th>Category</th></tr>
+        </thead>
+        <tbody>
+            @foreach (HW_03.Models.Category category in Model.Category)
+            {
+                <tr>
+
+                    <td> <a asp-route-ID="@category.CategoryId" asp-action="PostCategory">@category.CategoryName</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-action="NewPost">NewPost</a>
+
+</body>
+
+</html>

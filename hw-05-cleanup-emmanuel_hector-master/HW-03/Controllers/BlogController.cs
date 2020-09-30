@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using HW_03.Models;
+using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace HW_03.Controllers
 {
@@ -27,9 +28,10 @@ namespace HW_03.Controllers
         {
             return View(await _repository.GetPostListAsync());
         }
-        public async Task<IActionResult> Categories()
+        public async Task<IActionResult> Category()
         {
-            return View(await _repository.GetCategoriesAsync());
+            //return View(await _repository.GetCategoriesAsync());
+            return RedirectToPage("Category", await _repository.GetCategoriesAsync());
         }
 
         public async Task<IActionResult> PostCategory(int ID)

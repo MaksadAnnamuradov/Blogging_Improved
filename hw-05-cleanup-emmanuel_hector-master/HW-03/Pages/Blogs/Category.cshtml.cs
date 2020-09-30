@@ -11,6 +11,25 @@ using HW_03.Models;
 
 namespace Blog.Pages
 {
+    public class  PostCatModel : PageModel
+    {
+        private readonly ApplicationDbContext _context;
+        public PostCatModel(ApplicationDbContext context)
+        {
+            _context = context;
+        }
 
+       
+
+        [BindProperty]
+        public IEnumerable<Category> Category { get; set; }
+
+        public IActionResult OnGet(IEnumerable<Category> cat)
+        {
+            Category = cat;
+            return Page();
+        }
+
+    }
 
 }
