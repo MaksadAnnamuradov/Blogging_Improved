@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HuvNW4wcRpKNUWGS6qbwi6B1aXQRLopgbt4BLQKisaxgRYi38Aj7uBUfKFxDHeu9zYGOEnTvC9BcgTr435qdRA==",
+  "dgSpecHash": "FgGhtVNEwgFRiV5lsYlc7Tq3UxUjYwNc68BBpyd5nsmzmTsNFdiW/pdEx06qz6JkhsSsZNes0zuCrBym0PHISQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hector.maganahernand\\source\\repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+  "projectFilePath": "C:\\Users\\hector.maganahernand\\Desktop\\thing\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hector.maganahernand\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hector.maganahernand\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
