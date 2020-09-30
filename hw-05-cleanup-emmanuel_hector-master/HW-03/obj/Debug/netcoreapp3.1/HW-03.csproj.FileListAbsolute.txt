@@ -1299,4 +1299,4 @@ C:\Users\maksa\Projects\hw-05-cleanup-emmanuel_hector-master\hw-05-cleanup-emman
 C:\Users\maksa\Projects\hw-05-cleanup-emmanuel_hector-master\hw-05-cleanup-emmanuel_hector-master\HW-03\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\maksa\Projects\hw-05-cleanup-emmanuel_hector-master\hw-05-cleanup-emmanuel_hector-master\HW-03\obj\Debug\netcoreapp3.1\HW-03.csproj.CoreCompileInputs.cache
 C:\Users\maksa\Projects\hw-05-cleanup-emmanuel_hector-master\hw-05-cleanup-emmanuel_hector-master\HW-03\obj\Debug\netcoreapp3.1\HW-03.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\maksa\Projects\hw-05-cleanup-emmanuel_hector-master\hw-05-cleanup-emmanuel_hector-master\HW-03\obj\Debug\netcoreapp3.1\Razor\Pages\Category.cshtml.g.cs
+C:\Users\maksa\Projects\hw-05-cleanup-emmanuel_hector-master\hw-05-cleanup-emmanuel_hector-master\HW-03\obj\Debug\netcoreapp3.1\Razor\Pages\Blogs\Category.cshtml.g.cs

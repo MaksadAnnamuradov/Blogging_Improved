@@ -18,6 +18,10 @@ namespace HW_03.Models
 
         public DbSet<Category> Categories { get; set; }
 
+
+        public DbSet<PostCategory> PostCategories { get; set; }
+
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<PostCategory>()

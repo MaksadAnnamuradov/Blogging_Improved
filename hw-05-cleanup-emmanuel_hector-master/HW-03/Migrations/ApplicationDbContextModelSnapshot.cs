@@ -26,7 +26,7 @@ namespace HW_03.Migrations
                         .HasColumnType("integer")
                         .HasAnnotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.IdentityByDefaultColumn);
 
-                    b.Property<string>("Categoryname")
+                    b.Property<string>("CategoryName")
                         .HasColumnType("text");
 
                     b.HasKey("CategoryId");
@@ -96,7 +96,7 @@ namespace HW_03.Migrations
 
                     b.HasIndex("CategoryId");
 
-                    b.ToTable("PostCategory");
+                    b.ToTable("PostCategories");
                 });
 
             modelBuilder.Entity("HW_03.Models.Comment", b =>

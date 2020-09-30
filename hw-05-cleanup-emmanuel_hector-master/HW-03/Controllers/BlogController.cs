@@ -92,8 +92,8 @@ namespace HW_03.Controllers
         public async Task <IActionResult> AddCategory(Category category, int PostId)
         {
             
-            await _repository.AddCategory(category, PostId);
-            return View();
+            await _repository.AddCategoryAsync(category, PostId);
+            return RedirectToAction("Detail", new { ID = PostId });
 
         }
 

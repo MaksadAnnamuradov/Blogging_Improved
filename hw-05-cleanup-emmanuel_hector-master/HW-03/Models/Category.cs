@@ -11,7 +11,7 @@ namespace HW_03.Models
 
         public string CategoryName { get; set; }
 
-        public List<PostCategory> PostCategories { set; get; }
+        public IList<PostCategory> PostCategories { get; set; }
 
     }
 }

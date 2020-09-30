@@ -65,16 +65,38 @@ namespace HW_03.Models
         public async Task AddCategoryAsync (Category category, int postId)
         {
 
-            var tempCat = await EntityFrameworkQueryableExtensions.FirstAsync(context.Categories, c => c.CategoryName == category.CategoryName);
+            var tempCat = await EntityFrameworkQueryableExtensions.FirstOrDefaultAsync(context.Categories, c => c.CategoryName == category.CategoryName);
 
 
-           if(category.CategoryName == null)
+           if(tempCat == null)
             {
-                Category = new category1();
-                category1.Catagoryname = category.CategoryName;
-                category1.CatagoryId = category.CategoryId;
+                tempCat = new Category { CategoryName = category.CategoryName };
+                context.Categories.Add(tempCat);
+                await context.SaveChangesAsync();
             }
+
+            var newPostCategory = new PostCategory()
+            {
+                CategoryId = tempCat.CategoryId,
+                PostId = postId
+            };
+
+            context.PostCategories.Add(newPostCategory);
+            await context.SaveChangesAsync();
+            
         }
+
+
+        public async Task<IEnumerable<Category>> GetCategoriesAsync()
+        {
+            return await context.Categories.Include(c => c.PostCategories).ThenInclude(r => r.Post).ThenInclude(r => r.Comments).ToListAsync();
+        }
+
+        public Task<Category> GetPostCategoriesAsync(int postID)
+        {
+            throw new NotImplementedException();
+        }
+
 
         public async Task<Comment> GetCommentAsync(int commentID)
         {

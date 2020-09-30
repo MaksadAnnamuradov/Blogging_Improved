@@ -7,6 +7,12 @@ namespace HW_03.Models
 {
     public class Post
     {
+
+        public Post()
+        {
+            Comments = new List<Comment>();
+            PostCategories = new List<PostCategory>();
+        }
         public int ID { get; set; }
 
         public string Title { get; set; }
