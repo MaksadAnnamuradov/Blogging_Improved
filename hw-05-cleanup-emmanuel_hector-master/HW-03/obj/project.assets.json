@@ -8513,24 +8513,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hector\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hector.maganahernand\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hector\\Source\\Repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+      "projectUniqueName": "C:\\Users\\hector.maganahernand\\Source\\Repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
       "projectName": "HW-03",
-      "projectPath": "C:\\Users\\Hector\\Source\\Repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
-      "packagesPath": "C:\\Users\\Hector\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hector\\Source\\Repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\obj\\",
+      "projectPath": "C:\\Users\\hector.maganahernand\\Source\\Repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\HW-03.csproj",
+      "packagesPath": "C:\\Users\\hector.maganahernand\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hector.maganahernand\\Source\\Repos\\hw-06-categories-with-razor-pages-maksad_justin_hector\\hw-05-cleanup-emmanuel_hector-master\\HW-03\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hector\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\hector.maganahernand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

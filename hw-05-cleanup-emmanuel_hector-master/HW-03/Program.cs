@@ -21,7 +21,6 @@ namespace HW_03
             using (var scope = host.Services.CreateScope())
             {
                 var db = scope.ServiceProvider.GetRequiredService<ApplicationDbContext>();
-                
                 db.Database.Migrate();
             }
 

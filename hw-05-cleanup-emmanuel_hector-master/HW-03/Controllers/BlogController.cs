@@ -34,15 +34,9 @@ namespace HW_03.Controllers
 
         public async Task<IActionResult> PostCategory(int ID)
         {
-            var postlist = await _repository.GetPostListAsync();
             var category = await _repository.GetCategoryAsync(ID);
 
-            var model = new PostCatRel
-            {
-                posts = postlist,
-                category = category
-            };
-            return View(model);
+            return View(category);
         }
 
 

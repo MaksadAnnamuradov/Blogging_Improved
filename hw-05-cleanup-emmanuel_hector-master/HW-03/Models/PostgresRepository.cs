@@ -53,7 +53,7 @@ namespace HW_03.Models
 
         public async Task<Category> GetCategoryAsync (int categoryID)
         {
-            return await Task.Run(() => context.Categories.First(r => r.CategoryId == categoryID));
+            return await Task.Run(() => context.Categories.Include(c => c.PostCategories).ThenInclude(pc => pc.Post).First(r => r.CategoryId == categoryID));
         }
 
         public async Task AddCommentAsync(Comment comment)
